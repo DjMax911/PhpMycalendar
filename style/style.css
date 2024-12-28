@@ -1,0 +1,19 @@
+.MyC_table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+}
+
+.MyC_full_date {
+    display: none;
+}
+
+.MyC_in_month {
+    opacity: 0.9;
+}
+
+.MyC_not_in_month {
+    opacity: 0.3;
+}
+.MyC_td:hover{
+background-color: rgb(235, 235, 235);
+}
