@@ -11,11 +11,6 @@ PhpMyCalendar v1.0 is a simple and lightweight PHP-based calendar script. This p
 - **PHP-Powered:** Easily integratable with other PHP projects.  
 - **Future-Ready:** Designed to evolve into a more comprehensive agenda and scheduler system.
 
-## Installation
-```markdown
-git clone https://github.com/yourusername/phpmycalendar.git  
-```
-
 ## Usage  
 PhpMyCalendar v1.0 is designed for developers to customize and expand. You can use this script as-is or as a starting point for building more complex calendar functionalities.  
 
