@@ -1,5 +1,3 @@
-Here’s the updated version of the `readme.md` without the installation section or any related code blocks:  
-
 ```markdown
 # PhpMyCalendar v1.0  
 
